@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Animatick/Packages.git"
   },
+  "publishConfig": {
+    "@animatick:registry": "https://npm.pkg.github.com"
+  },
   "author": "Ryan McDonald",
   "license": "ISC",
   "bugs": {
