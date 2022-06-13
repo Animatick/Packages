@@ -1,0 +1,19 @@
+{
+  "name": "@animiatick/packages",
+  "version": "1.0.0",
+  "description": "hosted packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animatick/Packages.git"
+  },
+  "author": "Ryan McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Animatick/Packages/issues"
+  },
+  "homepage": "https://github.com/Animatick/Packages#readme"
+}
